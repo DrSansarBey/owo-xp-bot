@@ -239,3 +239,23 @@ sansar4.on("ready", () => {
       setInterval(() => {
         let kanal = sansar4.channels.cache.get(process.env.sohbet)  
  kanal.send("karı var mı")}, 5000);}) 
+
+sansar.on("ready", () => {
+      setInterval(() => {
+       let kanal = sansar.channels.cache.get(process.env.sohbet)  
+       kanal.send("yok karı git")}, 11000);})  
+
+ sansar2.on("ready", () => {
+      setInterval(() => {
+        let kanal = sansar2.channels.cache.get(process.env.sohbet)  
+ kanal.send("karı avcısı bu ya")}, 11000);}) 
+ 
+sansar3.on("ready", () => {
+      setInterval(() => {
+        let kanal = sansar3.channels.cache.get(process.env.sohbet)  
+ kanal.send("benim karıyı iyi ki cekmemisim")},11000);}) 
+
+sansar4.on("ready", () => {
+      setInterval(() => {
+        let kanal = sansar4.channels.cache.get(process.env.sohbet)  
+ kanal.send("ne dedik sanki amk")}, 11000);})  
