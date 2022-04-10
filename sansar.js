@@ -99,6 +99,23 @@ if (msg.content.toLowerCase() === "!daily") {
 ;}});   
 
 sansar.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});  
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});   
+
+sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!wh") {
  msg.channel.send("owoh")
 ;}}); 
