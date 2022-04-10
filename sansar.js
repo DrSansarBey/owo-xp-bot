@@ -98,6 +98,40 @@ if (msg.content.toLowerCase() === "!daily") {
  msg.channel.send("owo daily")
 ;}});   
 
+sansar.on("message", async (msg, member, guild) => {  
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}}); 
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});    
+
+sansar.on("message", async (msg, member, guild) => {  
+if (msg.content.toLowerCase() === "!ww") {
+ msg.channel.send("owo w")
+;}}); 
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ww") {
+ msg.channel.send("owo w")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ww") {
+ msg.channel.send("owo w")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ww") {
+ msg.channel.send("owo w")
+;}});   
+
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!ws") {
  msg.channel.send("owo sell all")
@@ -306,23 +340,23 @@ sansar.on("ready", () => {
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 10000);})  
+ kanal.send(rastgelemesaj)}, 5000);})  
 
  sansar2.on("ready", () => {
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar2.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 10000);}) 
+ kanal.send(rastgelemesaj)}, 5000);}) 
 
 sansar3.on("ready", () => {
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar3.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 10000);})  
+ kanal.send(rastgelemesaj)}, 5000);})  
 
 sansar4.on("ready", () => {
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar4.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 10000);})  
+ kanal.send(rastgelemesaj)}, 5000);})  
 
