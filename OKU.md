@@ -21,5 +21,7 @@ Gelelim komutlara, komutlar nelerdir;
 !daily (Günlük para alır.)
 !wh (Hunt atar.)
 !ws (Tüm hayvanları satar.)
+!inv (Envanteri gösterir.)
+!ww (Weaponları gösterir.)
 
 İyi kullanımlar dilerim. 
