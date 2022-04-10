@@ -63,7 +63,6 @@ const mesaj = [
 "çocukların ilk aylarında artan talepleri karşılamak için bir konuşma yaptı. seksen yaşında bu kadar çok sayıda fonksiyon bozukluğu olan erkekler için bir tehdit oluşturduğunu söyledi"
 ];
   
- 
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!cash") {
@@ -81,6 +80,40 @@ if (msg.content.toLowerCase() === "!cash") {
 if (msg.content.toLowerCase() === "!cash") {
  msg.channel.send("owo cash")
 ;}});   
+
+sansar.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!daily") {
+ msg.channel.send("owo daily")
+;}});  
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!daily") {
+ msg.channel.send("owo daily")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!daily") {
+ msg.channel.send("owo daily")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!daily") {
+ msg.channel.send("owo daily")
+;}});   
+
+sansar.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!wh") {
+ msg.channel.send("owoh")
+;}}); 
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!wh") {
+ msg.channel.send("owoh")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!wh") {
+ msg.channel.send("owoh")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!wh") {
+ msg.channel.send("owoh")
+;}});  
  
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!xp") {
