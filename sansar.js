@@ -31,6 +31,27 @@ sansar2.login(process.env.token2)
 sansar3.login(process.env.token3) 
 sansar4.login(process.env.token4) 
 
+const mesaj = [
+"Selamün Aleyküm",
+"Aleyküm Selam",
+"Naber Kardeş",
+"İyidir Senden?",
+"Bende iyiyim",
+"Allah iylik versin",
+"Amin",
+"Hayat Nasıl Gidiyor?",
+"Eh işte idare eder",
+"Benimde aynı kötü gidiyor vallaha.",
+"Düzelir be reis",
+"Hangi partiyi destekliyorsum?",
+"Erdoğan erdoğan erdoğaaaaaaan",
+"Senin ben gafanı sikim",
+"Ayıb oluyor hocam",
+"Napim",
+"Domal",
+"Domaldım",
+"Bende"
+];
  
 
 sansar.on("message", async (msg, member, guild) => {
@@ -222,40 +243,25 @@ if (msg.content.toLowerCase() === "!selllegendary") {
 
 sansar.on("ready", () => {
       setInterval(() => {
-       let kanal = sansar.channels.cache.get(process.env.sohbet)  
-       kanal.send("Nasılsınız gençler?")}, 5000);})  
+        const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
+        let kanal = sansar.channels.cache.get(process.env.sohbet)  
+ kanal.send(rastgelemesaj)}, 10000);})  
 
  sansar2.on("ready", () => {
       setInterval(() => {
+        const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar2.channels.cache.get(process.env.sohbet)  
- kanal.send("Iyiyiz senden")}, 5000);}) 
- 
+ kanal.send(rastgelemesaj)}, 10000);}) 
+
 sansar3.on("ready", () => {
       setInterval(() => {
+        const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar3.channels.cache.get(process.env.sohbet)  
- kanal.send("bizde iyiyiz")}, 5000);}) 
+ kanal.send(rastgelemesaj)}, 10000);})  
 
 sansar4.on("ready", () => {
       setInterval(() => {
+        const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar4.channels.cache.get(process.env.sohbet)  
- kanal.send("karı var mı")}, 5000);}) 
+ kanal.send(rastgelemesaj)}, 10000);})  
 
-sansar.on("ready", () => {
-      setInterval(() => {
-       let kanal = sansar.channels.cache.get(process.env.sohbet)  
-       kanal.send("yok karı git")}, 11000);})  
-
- sansar2.on("ready", () => {
-      setInterval(() => {
-        let kanal = sansar2.channels.cache.get(process.env.sohbet)  
- kanal.send("karı avcısı bu ya")}, 11000);}) 
- 
-sansar3.on("ready", () => {
-      setInterval(() => {
-        let kanal = sansar3.channels.cache.get(process.env.sohbet)  
- kanal.send("benim karıyı iyi ki cekmemisim")},11000);}) 
-
-sansar4.on("ready", () => {
-      setInterval(() => {
-        let kanal = sansar4.channels.cache.get(process.env.sohbet)  
- kanal.send("ne dedik sanki amk")}, 11000);})  
