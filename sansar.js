@@ -62,6 +62,17 @@ const mesaj = [
 "her şeyden önce bir insan olarak yaşamanın getirdiği bir sonuç olacağını bilmiyor musun? bunu bilemem ama bir gün karşılaşırız. örneğin çok yüksek olduğu bilinmektedir. bazı yörelerde çok sık görülen bir rahatsızlıktır. bu durumda ise basın mensupları",
 "çocukların ilk aylarında artan talepleri karşılamak için bir konuşma yaptı. seksen yaşında bu kadar çok sayıda fonksiyon bozukluğu olan erkekler için bir tehdit oluşturduğunu söyledi"
 ];
+
+const süre = [
+  10000,
+  13000,
+  15000,
+  6000,
+  8000,
+  9000,
+  20000,
+  14000,
+]
   
 
 sansar.on("message", async (msg, member, guild) => {
@@ -337,26 +348,30 @@ if (msg.content.toLowerCase() === "!selllegendary") {
 
 
 sansar.on("ready", () => {
+  const dakika = süre[Math.floor(Math.random() *süre.length)]; 
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 5000);})  
+ kanal.send(rastgelemesaj)}, dakika);})  
 
  sansar2.on("ready", () => {
+   const dakika = süre[Math.floor(Math.random() *süre.length)]; 
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar2.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 5000);}) 
+ kanal.send(rastgelemesaj)}, dakika);}) 
 
 sansar3.on("ready", () => {
+  const dakika = süre[Math.floor(Math.random() *süre.length)]; 
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar3.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 5000);})  
+ kanal.send(rastgelemesaj)}, dakika);})  
 
 sansar4.on("ready", () => {
+  const dakika = süre[Math.floor(Math.random() *süre.length)]; 
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar4.channels.cache.get(process.env.sohbet)  
- kanal.send(rastgelemesaj)}, 5000);})  
-
+ kanal.send(rastgelemesaj)}, dakika);})  
+ 
