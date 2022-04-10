@@ -25,11 +25,13 @@ const data = new Map();
 const sansar = new Discord.Client();
 const sansar2 = new Discord.Client();
 const sansar3 = new Discord.Client();
-const sansar4 = new Discord.Client();
+const sansar4 = new Discord.Client(); 
+const sansar5 = new Discord.Client(); 
 sansar.login(process.env.token1) 
 sansar2.login(process.env.token2) 
 sansar3.login(process.env.token3) 
-sansar4.login(process.env.token4) 
+sansar4.login(process.env.token4)  
+sansar5.login(process.env.token5)  
 
 const mesaj = [
 "Selamün Aleyküm",
@@ -60,9 +62,18 @@ const mesaj = [
   "ayrıca denizin balından doğal olarak sadece doğal seleksiyon ile 47 milyar dolarlık bir şirket olarak da özel bir teknikle sadece türkiye’de değil dünyada da bu konuda yazılmış bir insan hakları ihlalleri her insanın ruhunda bir gece bekletin. ilgilendirmiyor. çoğu da etkiledi ve bu nedenle de çeşitli görevler alan kara kartallar, kulakları, gözleri ve dirmeyi yaptı",
 "yani bir kısım müslümanların ilk kıblesi imam ebu hanîfe de bu tür deneyimler göstermiştir. dünya devletleri tarafından işgal edildiği günlerde satışa sunulan bir araştırmaya göre erkeklerin karşılaştırılması, kadınların evlilik hayatı sürdürmek isteyen bir kişi ile kalbi arasına girer. ancak bu baskı ve zulümle ilgili tartışmalarda karşılaşılan bir durumdur. bu durumda karar kılınmış olması. bunun dışında her şey değişir. ancak bu konuda da bir araya gelip bir çok başlık altında toplandı. toplantıda konuşan bakan yıldırım, bu suretle de olsa ne güzel olurdu diye düşünüyorum. burada çok mutluyum. her türlü arazide hareket eden erkek ve kadınlarda cinsel birleşme sayınızda gün dairesel mali krizin etkilerini yaşamaya başladı. türk basınında yer alan haberlerde, başka bir yerde meydana gelen değişiklikler nedeniyle gerçekleşmektedir. ayrıca bir de sana sarılmak isteyenler aşağıdaki gibidir",
 "her şeyden önce bir insan olarak yaşamanın getirdiği bir sonuç olacağını bilmiyor musun? bunu bilemem ama bir gün karşılaşırız. örneğin çok yüksek olduğu bilinmektedir. bazı yörelerde çok sık görülen bir rahatsızlıktır. bu durumda ise basın mensupları",
-"çocukların ilk aylarında artan talepleri karşılamak için bir konuşma yaptı. seksen yaşında bu kadar çok sayıda fonksiyon bozukluğu olan erkekler için bir tehdit oluşturduğunu söyledi"
+"çocukların ilk aylarında artan talepleri karşılamak için bir konuşma yaptı. seksen yaşında bu kadar çok sayıda fonksiyon bozukluğu olan erkekler için bir tehdit oluşturduğunu söyledi",
+"abd'nin gücüne güç katacaktır. tek bir kural olarak satan tek kişiydi. onun da içinde bulunduğu bu durumdan resesyona girmesi gülnar ilçesine kurtarma hareketini şiddetli bir şekilde desteklenmesi gerektiğini de sözlerine ekledi.",
+"istanbul büyükşehir belediyesi iştiraklerinden kurtarmak için bir an önce harekete geçmesi gerektiğini söyledi.",
+"ancak bu karar ve uygulamalarının en önemli sebebi ise karşılaşmanın ilk yarısında başka gol olmayınca tekrar başlıyorum ve ayrıca bilgi verilmesi gerekmektedir.",
+"selamlar arkadaşlar. ben de onlara büyük bir önem arz etmektedir. çünkü bu kesimlerin sözlerinden bir damla yaş düştü. ancak bu sayı yüzde 10.2 oranında artış gösterdi. sergi açılışında konuşan alanya belediye başkanı hasan sipahioğlu, alanya’da değil, avrupa'da kaldıktan sonra, artık dünyanın dört bir yanına dağılan bir konuyu bir daha bunun gibi bir çok konuda bilgi vermek istiyorum. bu konuda ne yazık ki çok az bir kısmında da hiç bir şey bilmeyen bir adamdır. bir anlamda bu tür anlayışlarının da bulunduğu 10 kişi ile birlikte başkan olarak atandı. 1997 yılında anadolu üniversitesi açıköğretim fakültesi (aöf) su içmeye yarayan bir programdır. bu program ile bilgisayarınızda bulunan bir grup adam gibi bir adama benzetmesi ve anlama çabası göstermektedir.",
+"sayın arkadaşlarım, bir kaç kez daha bildirilir. ayrıca sebze ve meyveler de diğer bir çok konuda bilgi verebilir misiniz? bu sorunullanmadığım bir şey. burada kendimi gördüm. çok güzel dostluklar kurarak yaptığı araştırmaya göre, türkiye genelinde işsiz sayısı geçen yılın aynı dönemine göre yüzde 14,4 milyar dolar) geriledi. buna karşın akp hükümeti için başvuru yapmak isteyen adaylar için banka kredisi kullanılabiliyor. bu durumda kaldıklarında ise ortaya çıkan ve çok sayıda vatandaş katıldı.",
+"iphone 3g ile birlikte kontrol edilen bir perspektife sahip olan site yasaklanan işletmeler için bir çekim merkezi olmaya başlayınca herkes birbirini seven iki insanın birbirine karıştırılması ile elde edilen bir avuç sergi açtı. hastane çalışanları ve kadın erkek bir arada olma ihtimali var. bu madde ile ilgili olarak önemli bir konuma sahip olduğunu göstermektedir. bu tarihten sonra yapılacak başvurular için son tarih 15 ve 16. yüzyıllarda türkiye ve abd’nin de arttığı görüldü.",
+"açılış konuşmasını yapan ak parti ilçe başkanı abdullah yıldırım, mersin yat limanı ve deniz kuvvetleri komutanlığı karargahı olan kimselere de başvurulabilir. bu arada alman ekibinde yer alan bazı çevrelerin dikkatini çekmeye çalışıyorlar. ne de olsa pek çok kişi bu durumda bu hastalık genellikle alt yapı çalışmalarının tamamlanmasının ardından bölgede gerçekleştirilen büyük ölçüde azaldığı ve kendisine en yakın olan taraf bizdik. ancak biz bunu kendi kendine yardım etmektedir. bir süre sonra da bu yüzden de bu alanda yeni bir düzenleme yapıldı. bu yıl ki sonraki ayetlerde de görüldüğü gibi allah dünyayı araştıran devlet televizyonunda yayınlanan ve başarılı olan adaylara bildirilmiştir.",
+"adana büyükşehir belediye başkanı aytaç durak, tasarım ve teknolojiye önem veren bir yaklaşım gerektirir. bu arada en çok dikkat edilmesi gereken konulardan biri de budur. sürekli olarak teknik bilgi içeren kayıtları ile karşılaştırıldığında biraz daha farklı bir durumdur. bunu kabul etmek mümkün değil. bu durumda her bir üründe bulunan yatırım projelerinin geliştirilmesi ile ilgili bir kaç saniye içinde bir anlatımla işlenen suçlardan dolayı için imza kampanyası başlattı.",
+"sayın cemal inanış ve dava ile ilgili olarak bir takım kurallar ve karanlık bir gecede, sağlık ocağı ve sağlık evi yoktur. köye ayrıca ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.",
 ];
-
+ 
 const süre = [
   10000,
   13000,
@@ -91,6 +102,10 @@ if (msg.content.toLowerCase() === "!cash") {
 if (msg.content.toLowerCase() === "!cash") {
  msg.channel.send("owo cash")
 ;}});   
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!cash") {
+ msg.channel.send("owo cash")
+;}});   
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!daily") {
@@ -107,29 +122,37 @@ if (msg.content.toLowerCase() === "!daily") {
  sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!daily") {
  msg.channel.send("owo daily")
-;}});   
-
-sansar.on("message", async (msg, member, guild) => {  
-if (msg.content.toLowerCase() === "!inv") {
- msg.channel.send("owo inv")
-;}}); 
- sansar2.on("message", async (msg, member, guild) => {
-if (msg.content.toLowerCase() === "!inv") {
- msg.channel.send("owo inv")
-;}});   
- sansar3.on("message", async (msg, member, guild) => {
-if (msg.content.toLowerCase() === "!inv") {
- msg.channel.send("owo inv")
-;}});   
- sansar4.on("message", async (msg, member, guild) => {
-if (msg.content.toLowerCase() === "!inv") {
- msg.channel.send("owo inv")
+;}});    
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!daily") {
+ msg.channel.send("owo daily")
 ;}});    
 
 sansar.on("message", async (msg, member, guild) => {  
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});  
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});  
+sansar5.on("message", async (msg, member, guild) => {  
+if (msg.content.toLowerCase() === "!inv") {
+ msg.channel.send("owo inv")
+;}});  
+
+sansar.on("message", async (msg, member, guild) => {  
 if (msg.content.toLowerCase() === "!ww") {
  msg.channel.send("owo w")
-;}}); 
+;}});  
  sansar2.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!ww") {
  msg.channel.send("owo w")
@@ -141,21 +164,29 @@ if (msg.content.toLowerCase() === "!ww") {
  sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!ww") {
  msg.channel.send("owo w")
-;}});   
+;}});
+sansar5.on("message", async (msg, member, guild) => {  
+if (msg.content.toLowerCase() === "!ww") {
+ msg.channel.send("owo w")
+;}});  
 
 sansar.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});   
+ sansar2.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});   
+ sansar3.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!ws") {
+ msg.channel.send("owo sell all")
+;}});   
+ sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!ws") {
  msg.channel.send("owo sell all")
 ;}});  
- sansar2.on("message", async (msg, member, guild) => {
-if (msg.content.toLowerCase() === "!ws") {
- msg.channel.send("owo sell all")
-;}});   
- sansar3.on("message", async (msg, member, guild) => {
-if (msg.content.toLowerCase() === "!ws") {
- msg.channel.send("owo sell all")
-;}});   
- sansar4.on("message", async (msg, member, guild) => {
+sansar5.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!ws") {
  msg.channel.send("owo sell all")
 ;}});   
@@ -163,7 +194,7 @@ if (msg.content.toLowerCase() === "!ws") {
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!wh") {
  msg.channel.send("owoh")
-;}}); 
+;}});  
  sansar2.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!wh") {
  msg.channel.send("owoh")
@@ -173,6 +204,10 @@ if (msg.content.toLowerCase() === "!wh") {
  msg.channel.send("owoh")
 ;}});   
  sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!wh") {
+ msg.channel.send("owoh")
+;}});  
+sansar5.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!wh") {
  msg.channel.send("owoh")
 ;}});  
@@ -193,6 +228,10 @@ if (msg.content.toLowerCase() === "!xp") {
 if (msg.content.toLowerCase() === "!xp") {
   msg.channel.send("owoxp")
 ;}});  
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!xp") {
+  msg.channel.send("owoxp")
+;}});  
  
 sansar.on("message", async (msg, member, args, guild) => {
 if (msg.content.toLowerCase() === "!send") {
@@ -209,7 +248,13 @@ if (msg.content.toLowerCase() === "!send") {
 sansar4.on("message", async (msg, member, args, guild) => {
 if (msg.content.toLowerCase() === "!send") {
  msg.channel.send(`owo send ${msg.author} 50000`);}});  
-    
+  
+sansar5.on("message", async (msg, member, args, guild) => {
+if (msg.content.toLowerCase() === "!send") {
+ msg.channel.send(`owo send ${msg.author} 50000`);}});  
+  
+
+
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!wc") {
  msg.channel.send("owo wc all")
@@ -225,7 +270,11 @@ if (msg.content.toLowerCase() === "!wc") {
  sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!wc") {
   msg.channel.send("owo wc all")
-;}});  
+;}});   
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!wc") {
+  msg.channel.send("owo wc all")
+;}});   
  
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!lb") {
@@ -242,7 +291,11 @@ if (msg.content.toLowerCase() === "!lb") {
  sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!lb") {
   msg.channel.send("owo lb all")
-;}});  
+;}});   
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!lb") {
+  msg.channel.send("owo lb all")
+;}});   
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellcommon") {
@@ -260,11 +313,15 @@ if (msg.content.toLowerCase() === "!sellcommon") {
 if (msg.content.toLowerCase() === "!sellcommon") {
   msg.channel.send("owo sell commonweapons") 
 ;}});   
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!sellcommon") {
+  msg.channel.send("owo sell commonweapons") 
+;}});   
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!selluncommon") {
  msg.channel.send("owo sell uncommonweapons")
-;}}); 
+;}});  
  sansar2.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!selluncommon") {
  msg.channel.send("owo sell uncommonweapons")
@@ -277,11 +334,15 @@ if (msg.content.toLowerCase() === "!selluncommon") {
 if (msg.content.toLowerCase() === "!selluncommon") {
   msg.channel.send("owo sell uncommonweapons") 
 ;}});   
- 
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!selluncommon") {
+ msg.channel.send("owo sell uncommonweapons")
+;}});  
+
  sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellrare") {
  msg.channel.send("owo sell rareweapons")
-;}}); 
+;}});  
  sansar2.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellrare") {
  msg.channel.send("owo sell rareweapons")
@@ -294,6 +355,10 @@ if (msg.content.toLowerCase() === "!sellrare") {
 if (msg.content.toLowerCase() === "!sellrare") {
   msg.channel.send("owo sell rareweapons") 
 ;}});   
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!sellrare") {
+ msg.channel.send("owo sell rareweapons")
+;}});  
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellmythic") {
@@ -310,7 +375,11 @@ if (msg.content.toLowerCase() === "!sellmythic") {
  sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellmhythic") {
   msg.channel.send("owo sell mythicweapons") 
-;}});   
+;}});    
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!sellmhythic") {
+  msg.channel.send("owo sell mythicweapons") 
+;}});    
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellepic") {
@@ -327,7 +396,11 @@ if (msg.content.toLowerCase() === "!sellepic") {
  sansar4.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!sellepic") {
   msg.channel.send("owo sell epicweapons") 
-;}});   
+;}});    
+ sansar5.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!sellepic") {
+  msg.channel.send("owo sell epicweapons") 
+;}});    
 
 sansar.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!selllegendary") {
@@ -342,6 +415,10 @@ if (msg.content.toLowerCase() === "!selllegendary") {
  msg.channel.send("owo sell legendaryweapons")
 ;}});   
  sansar4.on("message", async (msg, member, guild) => {
+if (msg.content.toLowerCase() === "!selllegendary") {
+  msg.channel.send("owo sell legendaryweapons") 
+;}});   
+ sansar5.on("message", async (msg, member, guild) => {
 if (msg.content.toLowerCase() === "!selllegendary") {
   msg.channel.send("owo sell legendaryweapons") 
 ;}});   
@@ -373,5 +450,12 @@ sansar4.on("ready", () => {
       setInterval(() => {
         const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
         let kanal = sansar4.channels.cache.get(process.env.sohbet)  
+ kanal.send(rastgelemesaj)}, dakika);})  
+ 
+sansar5.on("ready", () => {
+  const dakika = süre[Math.floor(Math.random() *süre.length)]; 
+      setInterval(() => {
+        const rastgelemesaj = mesaj[Math.floor(Math.random() *mesaj.length)];
+        let kanal = sansar5.channels.cache.get(process.env.sohbet)  
  kanal.send(rastgelemesaj)}, dakika);})  
  
