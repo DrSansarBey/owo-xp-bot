@@ -20,5 +20,6 @@ Gelelim komutlara, komutlar nelerdir;
 !send (Komutu kullanan kişiye 50 bin cowoncy gönderir.)
 !daily (Günlük para alır.)
 !wh (Hunt atar.)
+!ws (Tüm hayvanları satar.)
 
 İyi kullanımlar dilerim. 
