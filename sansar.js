@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const db = require('quick.db')
     function sleep(milliseconds) {
   var start = new Date().getTime();
   for (var i = 0; i < 1e7; i++) {
@@ -32,6 +33,8 @@ sansar2.login(process.env.token2)
 sansar3.login(process.env.token3) 
 sansar4.login(process.env.token4)  
 sansar5.login(process.env.token5)  
+
+
 
 const mesaj = [
 "Selamün Aleyküm",
@@ -84,6 +87,26 @@ const süre = [
   20000,
   14000,
 ]
+
+
+
+
+var huntkanal = "962778079183388742";
+var ownerid = "793004392315617320";
+
+
+setInterval(function(){if(db.get("huntbot") != "kapalı"){sansar.channels.cache.get(huntkanal).send("owo h");};},20000);
+setInterval(function(){if(db.get("huntbot") != "kapalı"){sansar.channels.cache.get(huntkanal).send("owo battle");};},25000);
+setInterval(function(){if(db.get("huntbot") != "kapalı"){sansar.channels.cache.get(huntkanal).send("owo sell all");};},30000);
+setInterval(function(){if(db.get("huntbot") != "kapalı"){sansar.channels.cache.get(huntkanal).send("owo pray");};},300000);
+
+
+sansar.on("message",message=>{ if(message.author.id == ownerid){ if(message.content == "!kapat"){db.set("huntbot","kapalı"); message.channel.send("Kapatıldı");};};});
+sansar.on("message",message=>{ if(message.channel.id== huntkanal || message.channel.type == "dm"){ if(message.author.id=="408785106942164992"){if(message.content.includes("Beep Boop") || message.content.includes("Please DM me") || message.content.includes("human") || message.content.includes("check")){ 
+db.set("huntbot","kapalı")
+sansar.channels.cache.get(huntkanal).send("Bot doğrulama attığı için sistem otomatik şekilde durduruldu. <@793004392315617320>");};};};})
+sansar.on("message",message=>{if(message.author.id == ownerid){if(message.content == "!aç"){db.set("huntbot","açık"); message.channel.send("Başlatılıyor");};};});  
+
   
 
 sansar.on("message", async (msg, member, guild) => {
