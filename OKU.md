@@ -1,3 +1,5 @@
+Etrafta bu bot bana ait diye gezenlere itibar etmeyiniz, tüm kodları 1851 sunucumuzda yayın açarak Mikail kardeşimle yazdık, sadece durdurma kodunun bir kısmı alıntıdır diğer tüm kodlar bana aittir <3
+
 Merhaba kullanıcı! Bu proje owo benzeri botlarda otomatik kasılmak için geliştirilmiş bir sistemdir.
 Dr.SansarBey tarafından geliştirilmiş olup hâlâ gelişmeye devam etmektedir.
 
